@@ -1,7 +1,7 @@
 # ⚡ Welcome To Database Velix:
 
 <p align="center">
-  <img src="https://files.catbox.moe/hfgsh5.jpg" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/yqi8qh.jpg" alt="Thumbnail" />
 </p>
 
 # 💫 About:
