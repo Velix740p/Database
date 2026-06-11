@@ -1,4 +1,4 @@
-#⚡ Welcome To Database Velix:
+# ⚡ Welcome To Database Velix:
 
 <p align="center">
   <img src="https://files.catbox.moe/hfgsh5.jpg" alt="Thumbnail" />
